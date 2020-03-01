@@ -4,7 +4,7 @@ Links and Libraries for coding and web development all in one place
 
 ## CSS
 
-*These additional jQuery and Poopper stylesheet links are needed to make the javascript and popper functions work with Bootstrap's libraries*
+*These additional jQuery and Popper stylesheet links are needed to make the javascript and popper functions work with Bootstrap's libraries*
 
 | Library Links  | Source Links and Notes|
 | --- | --- |

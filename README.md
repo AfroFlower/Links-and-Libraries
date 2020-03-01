@@ -19,3 +19,4 @@ Links and Libraries for coding and web development all in one place
 | --- | --- |
 | `<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>` | https://cdnjs.com/libraries/jquery |
 | `<script src="https://code.jquery.com/jquery.js"></script>` | *This particular code goes at the bottom of the body tag* |
+| `<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>` |*Google* https://developers.google.com/speed/libraries|
